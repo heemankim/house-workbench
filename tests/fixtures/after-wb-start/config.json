@@ -1,0 +1,8 @@
+{
+  "name": "test-workspace",
+  "vault": "obsidian",
+  "defaults": {
+    "baseBranch": "main",
+    "branchPrefix": "feature/"
+  }
+}

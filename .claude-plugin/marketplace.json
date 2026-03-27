@@ -1,0 +1,17 @@
+{
+  "name": "workbench-local",
+  "owner": {
+    "name": "Your Name"
+  },
+  "metadata": {
+    "description": "Workbench 로컬 마켓플레이스",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "workbench",
+      "source": "./",
+      "description": "AI 에이전트 작업을 위한 컨텍스트 관리 프레임워크"
+    }
+  ]
+}

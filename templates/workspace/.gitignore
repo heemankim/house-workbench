@@ -1,0 +1,13 @@
+# Workbench
+repos/
+tasks/
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "vault": "obsidian",
+  "defaults": {
+    "baseBranch": "main",
+    "branchPrefix": "feature/"
+  }
+}

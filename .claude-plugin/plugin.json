@@ -1,0 +1,17 @@
+{
+  "name": "workbench",
+  "description": "AI 에이전트 작업을 위한 컨텍스트 관리 프레임워크",
+  "version": "2.1.0",
+  "author": {
+    "name": "Heeman Kim"
+  },
+  "keywords": ["task-management", "context", "workflow", "productivity"],
+  "skills": "./skills",
+  "agents": [
+    "./agents/analyzer.md",
+    "./agents/checker.md",
+    "./agents/implementer.md",
+    "./agents/reviewer.md",
+    "./agents/tester.md"
+  ]
+}

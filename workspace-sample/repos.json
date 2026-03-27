@@ -1,0 +1,18 @@
+{
+  "repos": [
+    {
+      "name": "backend",
+      "remote": "git@github.com:your-org/backend.git",
+      "defaultBase": "main",
+      "branchPrefix": "feature/",
+      "labels": ["api", "nestjs"]
+    },
+    {
+      "name": "frontend",
+      "remote": "git@github.com:your-org/frontend.git",
+      "defaultBase": "main",
+      "branchPrefix": "feature/",
+      "labels": ["web", "react"]
+    }
+  ]
+}
